@@ -1,3 +1,3 @@
 # git-with-tram
 
-Author: Bao
+Author: Elaine, Bao
